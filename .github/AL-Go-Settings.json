@@ -1,0 +1,10 @@
+{
+  "MicrosoftTelemetryConnectionString": "",
+  "templateUrl": "https://github.com/businesscentralapps/tmpDQopDM-AppSource@main",
+  "type": "AppSource App",
+  "shell": "pwsh",
+  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
+  "runs-on": "ubuntu-latest",
+  "doNotPublishApps": false,
+  "useCompilerFolder": false
+}
